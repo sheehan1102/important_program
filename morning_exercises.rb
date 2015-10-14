@@ -49,4 +49,5 @@
 # puts arr[0][5][:secret][:unlock][1]
 
 
-prep = 'Prepping for next exercise'
+prep 	= 'Prepping for next exercise'
+prep2	= 'Another prep'
